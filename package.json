@@ -1,0 +1,24 @@
+{
+  "name": "tempoadjuster",
+  "version": "1.0.0",
+  "description": "A tool to take a playlist and set the tempo for all songs to a fixed speed.",
+  "main": "adjust.js",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "node-id3": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Splorgman/tempoadjuster.git"
+  },
+  "author": "Splorgman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Splorgman/tempoadjuster/issues"
+  },
+  "homepage": "https://github.com/Splorgman/tempoadjuster#readme"
+}
