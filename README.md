@@ -4,7 +4,7 @@ A tool to take a playlist and set the tempo for all songs to a fixed speed.
 
 # Why?
 
-Because the tempo slider TheWaveVR is not very good right now.
+Because the tempo slider in TheWaveVR is not very good right now.
 
 # How do I use this?
 
